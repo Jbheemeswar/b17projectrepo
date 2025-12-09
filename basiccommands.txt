@@ -5,4 +5,8 @@ mv
 ls -ltrh
 cat
 vi
+vim
+grep
+awk
+scp
 
